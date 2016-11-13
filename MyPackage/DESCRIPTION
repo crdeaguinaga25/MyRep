@@ -1,0 +1,10 @@
+Package: MyPackage
+Type: Package
+Title: Dummy Function, squares a given number
+Version: 0.1
+Date: 2016-11-13
+Authors@R: person("Carlos", "de Aguinag", email = "crar_25@hotmail.com", role = c("aut", "cre"))
+Description: Dummy Function, squares a given number
+License: None
+LazyData: TRUE
+RoxygenNote: 5.0.1
